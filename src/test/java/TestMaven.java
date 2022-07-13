@@ -11,3 +11,4 @@ public class TestMaven {
         Assert.assertEquals("Hello World!", helloWorld.getHello());
     }
 }
+
